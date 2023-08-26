@@ -1,0 +1,14 @@
+E:\ertev_yazilim\İf_uygulamasi\İf_uygulamasi\bin\Debug\İf_uygulamasi.exe.config
+E:\ertev_yazilim\İf_uygulamasi\İf_uygulamasi\bin\Debug\İf_uygulamasi.exe
+E:\ertev_yazilim\İf_uygulamasi\İf_uygulamasi\bin\Debug\İf_uygulamasi.pdb
+E:\ertev_yazilim\İf_uygulamasi\İf_uygulamasi\obj\Debug\if_uygulamasi.csproj.AssemblyReference.cache
+E:\ertev_yazilim\İf_uygulamasi\İf_uygulamasi\obj\Debug\if_uygulamasi.csproj.CoreCompileInputs.cache
+E:\ertev_yazilim\İf_uygulamasi\İf_uygulamasi\obj\Debug\İf_uygulamasi.exe
+E:\ertev_yazilim\İf_uygulamasi\İf_uygulamasi\obj\Debug\İf_uygulamasi.pdb
+D:\ERTEV C#\ASP.NET DERSLERİ\HOCANIN DOSYALARI\12.07.2023\if_uygulamasi\İf_uygulamasi\bin\Debug\İf_uygulamasi.exe.config
+D:\ERTEV C#\ASP.NET DERSLERİ\HOCANIN DOSYALARI\12.07.2023\if_uygulamasi\İf_uygulamasi\bin\Debug\İf_uygulamasi.exe
+D:\ERTEV C#\ASP.NET DERSLERİ\HOCANIN DOSYALARI\12.07.2023\if_uygulamasi\İf_uygulamasi\bin\Debug\İf_uygulamasi.pdb
+D:\ERTEV C#\ASP.NET DERSLERİ\HOCANIN DOSYALARI\12.07.2023\if_uygulamasi\İf_uygulamasi\obj\Debug\if_uygulamasi.csproj.AssemblyReference.cache
+D:\ERTEV C#\ASP.NET DERSLERİ\HOCANIN DOSYALARI\12.07.2023\if_uygulamasi\İf_uygulamasi\obj\Debug\if_uygulamasi.csproj.CoreCompileInputs.cache
+D:\ERTEV C#\ASP.NET DERSLERİ\HOCANIN DOSYALARI\12.07.2023\if_uygulamasi\İf_uygulamasi\obj\Debug\İf_uygulamasi.exe
+D:\ERTEV C#\ASP.NET DERSLERİ\HOCANIN DOSYALARI\12.07.2023\if_uygulamasi\İf_uygulamasi\obj\Debug\İf_uygulamasi.pdb
